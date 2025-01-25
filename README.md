@@ -1,5 +1,5 @@
 
-![](https://tenor.com/view/miyvarxar-gexute-chemgan-gakoce-hearts-gif-13358147)
+![](https://media.discordapp.net/attachments/221708975698083841/1134935720050569347/image0.gif?ex=6795e901&is=67949781&hm=de4a2c9c6efbccedde6123c68ffdcd27fc9535af5b901fe462254f81255943b1&=)
 <!----- 👋 Hi, I’m @nodairyco
 - 👀 I’m interested in prog
 - 🌱 I’m currently learning progging
