@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://tenor.com/view/miyvarxar-gexute-chemgan-gakoce-hearts-gif-13358147"/>
-</p>
+
+![](https://tenor.com/view/miyvarxar-gexute-chemgan-gakoce-hearts-gif-13358147)
 <!----- 👋 Hi, I’m @nodairyco
 - 👀 I’m interested in prog
 - 🌱 I’m currently learning progging
